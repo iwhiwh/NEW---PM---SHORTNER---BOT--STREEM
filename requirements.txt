@@ -13,17 +13,3 @@ pytz
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.1
-
-hachoir
-Pillow
-humanize
-aiofiles
-dnspython
-python-dotenv<=0.20.0
-psutil
-
-jinja2
-apscheduler
-pyshorteners
-pyromod
-colorama
